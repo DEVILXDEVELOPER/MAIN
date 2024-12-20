@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+pymongo
+aiohttp
+certifi
+asyncio
+telebot
+pytz
+psutil
